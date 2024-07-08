@@ -1,12 +1,5 @@
-## Course Work:
 
 Vintage Car Auction with PowerBi Synchranization
-
-#### Common Information
-- **Deadline**: Submit by June 9, 2024, 23:59.
-- **Goal**: Fully design and develop a DB component for an application.
-- **Required Skills**: Relational DB, SQL, Data Processing, Data Visualization.
-- **Result**: Schemas, scripts, reports, and other files.
 
 #### Course Project Statement
 1. Choose an area for development.
